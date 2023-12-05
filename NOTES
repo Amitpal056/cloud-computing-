@@ -51,7 +51,7 @@ AWS is the world most comprehensive and broadly adopted cloud platform offering 
 - nginx
 - ip address
 
-#####summary 
+##### summary 
    First you have to create a instance and after that you have to create a  key that will used to encrypt data and a private key that is used to decrypt data. For more information about key pairs, ensure you are signed into the AWS console and then review Amazon EC2 Key Pairs in the Amazon EC2 User Guide for Linux Instances. After successfull creating the instance you have to deploy application on the nginx server . For that you have to connect your instance to your SSH client like putty .
    Then you have to create load balancer and make another paired instance and divide the load equally with the help of load balancer.
   
